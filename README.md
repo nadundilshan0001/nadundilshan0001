@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- - 💬 Portfolio **[nadundilshan-portfolio](https://nadundilshan-portfolio.vercel.app/)**
+- My Portfolio **[nadundilshan-portfolio](https://nadundilshan-portfolio.vercel.app/)**
 
 - 📫 How to reach me **nadundilshanuni01@gmail.com**
 
